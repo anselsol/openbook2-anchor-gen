@@ -113,6 +113,12 @@
           "isOptional": true
         },
         {
+          "name": "eventAuthority",
+          "isMut": false,
+          "isSigner": false,
+          "isOptional": true
+        },
+        {
           "name": "program",
           "isMut": false,
           "isSigner": false
